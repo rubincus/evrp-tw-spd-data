@@ -1,0 +1,2 @@
+# c208C5 CoPTS-EV seed 2 cost 1158.48 K 1 distance 158.48 t_best 0.1s
+0 2 5 4 3 8 7 1 0

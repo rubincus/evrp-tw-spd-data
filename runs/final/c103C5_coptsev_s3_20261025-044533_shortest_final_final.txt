@@ -1,0 +1,2 @@
+# c103C5 CoPTS-EV seed 3 cost 1175.37 K 1 distance 175.37 t_best 0.0s
+0 3 6 2 6 1 5 4 7 6 0

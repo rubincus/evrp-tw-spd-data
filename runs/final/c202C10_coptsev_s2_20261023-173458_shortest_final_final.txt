@@ -1,0 +1,2 @@
+# c202C10 CoPTS-EV seed 2 cost 1304.06 K 1 distance 304.06 t_best 0.1s
+0 11 6 9 12 3 4 13 8 11 1 15 5 14 10 2 7 11 0
