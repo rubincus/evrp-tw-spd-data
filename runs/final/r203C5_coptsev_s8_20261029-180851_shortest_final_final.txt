@@ -1,0 +1,2 @@
+# r203C5 CoPTS-EV seed 8 cost 1179.06 K 1 distance 179.06 t_best 0.1s
+0 4 7 3 1 8 5 9 2 0

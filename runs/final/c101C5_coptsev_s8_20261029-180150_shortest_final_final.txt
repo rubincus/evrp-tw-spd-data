@@ -1,0 +1,3 @@
+# c101C5 CoPTS-EV seed 8 cost 2257.75 K 2 distance 257.75 t_best 0.0s
+0 8 5 1 6 4 0
+0 6 2 7 3 0

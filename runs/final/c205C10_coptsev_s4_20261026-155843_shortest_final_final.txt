@@ -1,0 +1,3 @@
+# c205C10 CoPTS-EV seed 4 cost 2228.28 K 2 distance 228.28 t_best 0.1s
+0 11 1 2 10 12 5 8 6 11 0
+0 11 3 4 9 13 7 11 0

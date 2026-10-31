@@ -1,0 +1,2 @@
+# rc201C10 CoPTS-EV seed 4 cost 1412.86 K 1 distance 412.86 t_best 0.1s
+0 11 13 10 6 12 5 11 1 2 11 7 9 11 4 14 8 3 11 0

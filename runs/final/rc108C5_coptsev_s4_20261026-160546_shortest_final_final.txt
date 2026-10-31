@@ -1,0 +1,3 @@
+# rc108C5 CoPTS-EV seed 4 cost 2253.93 K 2 distance 253.93 t_best 0.0s
+0 9 1 4 0
+0 2 8 3 7 5 0
